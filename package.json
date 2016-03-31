@@ -1,0 +1,20 @@
+{
+  "name": "req-stream",
+  "version": "1.0.0-alpha",
+  "description": "An http server framework that uses streams to handle routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "stream",
+    "request"
+  ],
+  "author": "Aaron Madsen <amadsen@codifiant.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readable-stream": "^2.0.6"
+  }
+}
